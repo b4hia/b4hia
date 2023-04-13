@@ -3,7 +3,7 @@
 ##
 I am 18 years old and currently studying Software and Multiplatform Development at Fatec Prof. Jessen Vidal. If you would like to get to know me better, please visit [my portfolio](https://github.com/b4hia/Portfoliotfolio)🙃. 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=b4hia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4hia&layout=compact&theme=tokyonight&hide_border=true" style="width: 420px;" /></a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=b4hia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anurag's github stats" style="width: 350px;"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4hia&layout=compact&theme=tokyonight&hide_border=true" style="width: 310px;"  /></a> 
 
 
 ## Some Projects
