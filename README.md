@@ -1,5 +1,5 @@
 ## Hi there, I'm Gabriel 👋
-### I am a future software developer who is passionate about cold nights, animals, and FrontEnd.
+### I am a future software developer who is passionate about animals and FrontEnd.
 ##
 I am 18 years old and currently studying Software and Multiplatform Development at Fatec Prof. Jessen Vidal. If you would like to get to know me better, please visit [my portfolio](https://github.com/b4hia/Portfolio)🙃. 
 
