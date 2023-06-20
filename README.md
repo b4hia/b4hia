@@ -22,8 +22,10 @@ I am 18 years old and currently studying Software and Multiplatform Development 
 
 
 ## Some Projects 🗃
-   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b4hia&repo=DevWEB&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true)](https://github.com/b4hia/DevWEB)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b4hia&repo=DevWEB&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true)](https://github.com/b4hia/DevWEB)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b4hia&repo=DATA-SARS&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true)](https://github.com/b4hia/DATA-SARS)
+
 
 
 
