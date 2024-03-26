@@ -4,7 +4,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7637FF&background=7637FF00&center=true&vCenter=true&width=750&lines=Hi+Everyone!+I'm+Gabriel+Reis;Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
 
 
-I am 19 years old and currently studying Software and Multiplatform Development at Fatec Prof. Jessen Vidal. If you would like to get to know me better, please visit [my portfolio](https://portfolioweb-three.vercel.app/)🙃. 
+I am 19 years old and currently studying Software and Multiplatform Development at Fatec Prof. Jessen Vidal. If you would like to get to know me better,please visit [my portfolio](https://portfolioweb-three.vercel.app/)🙃. 
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
