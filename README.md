@@ -8,6 +8,7 @@ I am 19 years old and currently studying Software and Multiplatform Development 
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align='center' alt='Java' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,6 +18,9 @@ I am 19 years old and currently studying Software and Multiplatform Development 
    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+   <img align='center' alt='Pandas' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" />
+   <img align='center' alt='PostMan' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" />
+   <img align='center' alt='Insomnia' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-plain.svg" />
    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
    <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
    <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
@@ -25,10 +29,15 @@ I am 19 years old and currently studying Software and Multiplatform Development 
    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img align='center' alt='Trello' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-          
+   <img align='center' alt='Axios' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" />
+   <img align='center' alt='Bulma' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+   <img align='center' alt='Eclipse' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-plain.svg" />
+   <img align='center' alt='Maven' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain.svg" />
+   <img align='center' alt='Redis' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
    <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+   <img align='center' alt='Spring' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div><br>
 
 ## My Github Stats 📈
