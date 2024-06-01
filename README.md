@@ -41,10 +41,12 @@ I am 19 years old and currently studying Software and Multiplatform Development 
 </div><br>
 
 ## My Github Stats 📈
- <a href="https://beacons.ai/b4hia">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=b4hia&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 350px;"/>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b4hia&title_color=eeeeee&layout=compact&langs_count=16&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 370px;"/> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4hia&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 700px;"/>
+<div align="center">
+    <a href="https://beacons.ai/b4hia">
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=b4hia&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 50%;"/>
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b4hia&title_color=eeeeee&layout=compact&langs_count=16&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 40%;"/> 
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4hia&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 100%;"/>
+</div>
 
 
 
