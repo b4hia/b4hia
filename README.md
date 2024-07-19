@@ -34,6 +34,7 @@ I am 19 years old and currently studying Software and Multiplatform Development 
    <img align='center' alt='Bulma' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
    <img align='center' alt='Eclipse' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-plain.svg" />
    <img align='center' alt='Maven' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain.svg" />
+   <img align='center' alt='DBeaver' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
    <img align='center' alt='Redis' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
