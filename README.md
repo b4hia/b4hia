@@ -21,20 +21,24 @@
    
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,html,css,python,mysql,mongodb,postgresql,redis,markdown,cassandra)](https://skillicons.dev)
 
-
 ##  💼 Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=react,jest,flask,bootstrap,sequelize,postman,vercel,tailwind,linux,redux,nextjs,express,nodejs,figma,eclipse,maven,git,selenium,spring,npm,arduino)](https://skillicons.dev)
 
 
 ## My Github Stats 📈
+
+<details>
+<Summary>Click here to see more</Summary>
+   
 <div align="center">
     <a href="https://beacons.ai/b4hia">
      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=b4hia&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 50%;"/>
      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b4hia&title_color=eeeeee&layout=compact&langs_count=16&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 40%;"/> 
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4hia&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="B4hia github stats" style="width: 100%;"/>
 </div>
-
+       
+</details>
 
 ## Contact ✉
 <div>
