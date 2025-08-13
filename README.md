@@ -8,7 +8,7 @@
 
 <br></br>
 <p align="left"> 
-  I am 20 years old and currently studying Software and Multiplatform Development at Fatec Prof. Jessen Vidal.<br>
+  I am 21 years old and currently studying Software and Multiplatform Development at Fatec Prof. Jessen Vidal.<br>
   Currently, I am learning Linux and React Native.
 </p>
 </div>
